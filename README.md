@@ -87,20 +87,6 @@ ML/NLP Engineer focused on practical NLP systems, LLM inference optimization, an
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔬 LLM Inference Benchmark Toolkit</h3>
-      <p>Reproducible LLM inference optimization lab for comparing backends, quantization, latency, VRAM, and output sanity on local hardware.</p>
-      <img src="https://img.shields.io/github/stars/Happynood/llm-inference-benchmark?style=social" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🧠 Currently Learning
 
 - [ ] vLLM / TensorRT-LLM / ONNX Runtime internals
