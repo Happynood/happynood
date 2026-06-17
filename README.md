@@ -29,12 +29,43 @@ ML/NLP Engineer focused on practical NLP systems, LLM inference optimization, an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Happynood&show_icons=true&theme=tokyonight&hide=contribs,prs&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happynood&layout=compact&theme=tokyonight&langs_count=8" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Happynood&show_icons=true&theme=tokyonight&hide=contribs,prs&count_private=true" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Happynood&show_icons=true&theme=swift&hide=contribs,prs&count_private=true" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Happynood&show_icons=true&theme=tokyonight&hide=contribs,prs&count_private=true" alt="GitHub Stats" />
+  </picture>
+  
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Happynood&layout=compact&theme=tokyonight&langs_count=8" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Happynood&layout=compact&theme=swift&langs_count=8" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happynood&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Happynood&theme=tokyonight" />
+  <picture>
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Happynood&theme=tokyonight" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Happynood&theme=github-light" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Happynood&theme=tokyonight" alt="Streak Stats" />
+  </picture>
 </p>
 
 ---
