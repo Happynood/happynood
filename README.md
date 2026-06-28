@@ -83,6 +83,13 @@ ML/NLP Engineer focused on practical NLP systems, LLM inference optimization, an
       <img src="https://img.shields.io/github/stars/Happynood/llm-inference-benchmark?style=social" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 QuantCall</h3>
+      <p>Reproducible benchmark: does quantization break LLM tool-calling? SVR, TSA, AC, FCR metrics across GGUF/AWQ/GPTQ backends.</p>
+      <img src="https://img.shields.io/github/stars/Happynood/quant-toolcall-bench?style=social" />
+    </td>
+  </tr>
 </table>
 
 ---
