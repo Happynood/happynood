@@ -94,14 +94,6 @@ ML/NLP Engineer focused on practical NLP systems, LLM inference optimization, an
 
 ---
 
-## 🧠 Currently Learning
-
-- [ ] vLLM / TensorRT-LLM / ONNX Runtime internals
-- [ ] Evaluation frameworks for RAG and LLM systems (Ragas, LLM-as-a-judge)
-- [ ] Efficient fine-tuning (LoRA, QLoRA) and deployment patterns
-
----
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Happynood/Happynood/output/github-contribution-grid-snake-dark.svg" />
