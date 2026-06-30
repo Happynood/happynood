@@ -1,4 +1,3 @@
-<!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Alexey+%F0%9F%91%8B;ML%2FNLP+Engineer;LLM+Inference+Optimization;Reproducible+ML+Pipelines" />
 </p>
