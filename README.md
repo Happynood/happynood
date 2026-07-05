@@ -89,6 +89,13 @@ ML/NLP Engineer focused on practical NLP systems, LLM inference optimization, an
       <img src="https://img.shields.io/github/stars/Happynood/quant-toolcall-bench?style=social" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚽ Match Tracker</h3>
+      <p>Offline player tracking and post-match statistics for football, from a single fixed tactical camera.</p>
+      <img src="https://img.shields.io/github/stars/Happynood/cv-match-tracker?style=social" />
+    </td>
+  </tr>
 </table>
 
 ---
