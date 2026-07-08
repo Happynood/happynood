@@ -33,6 +33,8 @@ I live at the intersection of **NLP systems** and **inference performance** — 
 
 ### 🚀 Featured Projects
 
+The quantization trilogy — same measurement philosophy, three different failure surfaces:
+
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -43,11 +45,28 @@ I live at the intersection of **NLP systems** and **inference performance** — 
 </td>
 <td width="33%" valign="top">
 
+**[🔌 QuantMCP](https://github.com/Happynood/quant-mcp-bench)**
+<br>Does quantization survive real, unmodified MCP tool schemas — not curated ones? Cross-benchmark consistency against QuantCall came out negative.
+
+</td>
+<td width="33%" valign="top">
+
+**[🧠 QuantThink](https://github.com/Happynood/quant-reasoning-bench)**
+<br>Does it break reasoning? Measures accuracy/thinking-length/cost-to-solve across weight + KV-cache quants, then recommends the accuracy-optimal config for your VRAM budget.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **[⚙️ LLM Inference Benchmark](https://github.com/Happynood/llm-inference-benchmark)**
 <br>Config-driven harness comparing latency, VRAM, and quality across backends — with Pareto-optimal recommendations.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 **[⚽ Match Tracker](https://github.com/Happynood/cv-match-tracker)**
 <br>Offline player tracking and post-match statistics for football, from a single fixed tactical camera.
