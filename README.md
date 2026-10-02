@@ -60,13 +60,19 @@ The quantization trilogy — same measurement philosophy, three different failur
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+**[🤖 QuantControl](https://github.com/Happynood/quant-control-bench)**
+<br>How few bits does a closed-loop robot controller need before it falls over? Post-training quantization of RL control policies in real MuJoCo physics, with bootstrap CIs and a precision recommender.
+
+</td>
+<td width="33%" valign="top">
 
 **[⚙️ LLM Inference Benchmark](https://github.com/Happynood/llm-inference-benchmark)**
 <br>Config-driven harness comparing latency, VRAM, and quality across backends — with Pareto-optimal recommendations.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[⚽ Match Tracker](https://github.com/Happynood/cv-match-tracker)**
 <br>Offline player tracking and post-match statistics for football, from a single fixed tactical camera.
